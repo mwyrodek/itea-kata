@@ -14,12 +14,13 @@ jobs:
   cyrpess-run:
 
     runs-on: ubuntu-latest
-    defaults:
-     run:
-       working-directory: ./Baseline
+#    defaults:
+#     run:
+#       working-directory: ./Baseline
     name: E2E on Chrome
     steps:
       - uses: actions/checkout@v2
       - uses: cypress-io/github-action@v4
         with:
           browser: chrome
+          working-directory: Baseline
