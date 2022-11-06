@@ -1,0 +1,17 @@
+{
+  "name": "baseline-kata",
+  "version": "1.0.0",
+  "description": "First Itea Kata to setup baseline",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress run"
+  },
+  "author": "Maciej Wyrodek",
+  "license": "MIT",
+  "dependencies": {
+    "cypress": "^10.11.0"
+  },
+  "devDependencies": {
+    "prettier": "2.7.1"
+  }
+}
