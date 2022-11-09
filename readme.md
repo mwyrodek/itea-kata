@@ -9,7 +9,7 @@ Not using mouse
 etc
 
 #Test Case to automate:
-Go to wyrodek.pl
-Select Contact me
-Fill The Form
-Click Submit
+1. Go to wyrodek.pl
+2. Select Contact me
+3. Fill The Form
+4. Click Submit
