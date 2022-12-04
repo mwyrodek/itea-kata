@@ -1,0 +1,11 @@
+{
+  "name": "Challnage-1-no-keyboard",
+  "version": "1.0.0",
+  "scripts": {
+    "cy:run": "cypress run",
+    "cy:open": "cypress open"
+  },
+  "dependencies": {
+      "cypress": "^11.2.0"
+  }
+}
