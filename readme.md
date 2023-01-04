@@ -17,12 +17,12 @@ etc
 
 
 # Challange 1 - No Keyboard
-0. Time Slot for wrting test 1,5h
+0. Time Slot for wrting test 45 min
 1. NO keyboard either phisical or on screen for writing code
 2. No Testing Recording
 3. No Speach to Text - this will be other challange
 4. Using keyboard is allowed for:
-- Gooing to the pages
+- Going to the pages
 - Googling
 - Git Commit
 - Naming folder for project
@@ -32,8 +32,18 @@ etc
    - I can copy url of visited page (no i cannot use it to type code into url)
 6. In case of failure we will count how many times I had to break the rules.
 
-Challenge 2. Wrting code with speach to text.
-Challange 3. Keyboard only.
+
+# Challange 2. Keyboard only.
+0. Time Slot for wrting test 1,5h
+1. No mouse - (see exeptions)
+2. Using mouse is allowed for:
+- Controling obs
+- Regaining control is i completly lose when I am i can use it to swich back to app
+- checking Cheat sheets, git, phpstorm, dev
+- git commit
+3. I can copy paste github actions setup
+
+Challenge 3. Wrting code with speach to text.
 Challange 4. IDE on smartphone
 Challange 5. No google or stackoverflow.
 
