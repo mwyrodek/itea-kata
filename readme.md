@@ -43,6 +43,13 @@ etc
 - git commit
 3. I can copy paste github actions setup
 
+# Challange 3. Speach to Text
+0. Time slot for writning test 30 min
+1. Code can be writen only using Speach to Text
+2. I can use mouse to move focus
+3. I can use mouse and keyboard for git and file greation
+
+
 Challenge 3. Wrting code with speach to text.
 Challange 4. IDE on smartphone
 Challange 5. No google or stackoverflow.
