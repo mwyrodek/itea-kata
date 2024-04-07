@@ -1,0 +1,13 @@
+Challange rules:
+
+
+- all file need to be named one letter
+- all methods, variables and other nameable object need also to be named 
+- when ever possilbe a wrapper should be created for methods
+- no comments for readablity!
+- no getting elements by text or readable atribuites like datatest id
+
+Exception
+- base node files and folders
+- cypress base files
+- locators can be more then one leter

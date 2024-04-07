@@ -1,0 +1,15 @@
+{
+  "name": "cypress-one-letter",
+  "version": "0.0.1",
+  "description": "Itea Kata one letter chalalnge ",
+  "main": "index.js",
+  "scripts": {
+    "o": "cypress open",
+    "r": "cypress run"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^13.7.2"
+  }
+}
