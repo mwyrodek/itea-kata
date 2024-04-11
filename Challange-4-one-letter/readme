@@ -1,3 +1,7 @@
+!IMPORTANT
+
+Itea kata is serias of challenges made for fun in no way this repo should be used as example of good code.
+
 Challange rules:
 
 
@@ -6,6 +10,10 @@ Challange rules:
 - when ever possilbe a one letter wrapper should be created for "natvie" methods
 - no comments for readablity!
 - no getting elements by text or readable atribuites like datatest id
+
+Additonal Rule:
+- try to break as much of best/good pratcies as possible
+
 
 Exception
 - base node files and folders
