@@ -2,8 +2,8 @@ Challange rules:
 
 
 - all file need to be named one letter
-- all methods, variables and other nameable object need also to be named 
-- when ever possilbe a wrapper should be created for methods
+- all methods, variables and other nameable object need also to be named in one letter maner
+- when ever possilbe a one letter wrapper should be created for "natvie" methods
 - no comments for readablity!
 - no getting elements by text or readable atribuites like datatest id
 
